@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
   - [Active Directory Home Lab]()
-  - [AI-Assisted Forensic Tool Lab]()
+  - [AI-Assisted Forensic Tool Lab](https://github.com/Sherman224/forensic-analysis-tool)
 
 - <b>HTML Labs</b>
   - [HTML Lab 1]()
