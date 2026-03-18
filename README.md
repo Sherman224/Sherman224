@@ -1,16 +1,22 @@
-## Hi there 👋
+<h1>Hi, I'm Sherman! <br/></h1>
 
-<!--
-**Sherman224/Sherman224** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 IT Projects:</h2>
 
-Here are some ideas to get you started:
+  - [Active Directory Home Lab]()
+  - [AI-Assisted Forensic Tool Lab]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>HTML Labs</b>
+  - [HTML Lab 1]()
+  - [HTML Lab 2]()
+  - [HTML Lab 3]()
+  - [HTML Lab 4]()
+
+<h2> Certifications</h2>
+
+- [CompTIA A+](https://cp.certmetrics.com/comptia/en/public/verify/credential/X6G3JJKQ6EF11N9F)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="ShermanLiang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/shermanliang/
