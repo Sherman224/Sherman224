@@ -6,10 +6,12 @@
   - [AI-Assisted Forensic Tool Lab](https://github.com/Sherman224/forensic-analysis-tool)
 
 - <b>HTML Labs</b>
-  - [HTML Lab 1]()
-  - [HTML Lab 2]()
-  - [HTML Lab 3]()
-  - [HTML Lab 4]()
+  - [HTML Lab 1](https://github.com/Sherman224/lab-1-2026)
+  - [HTML Lab 2](https://github.com/Sherman224/lab-2-2026)
+  - [HTML Lab 3](https://github.com/Sherman224/lab-3-2026)
+  - [HTML Lab 5](https://github.com/Sherman224/lab-5-2026)
+  - [HTML Lab 6](https://github.com/Sherman224/lab-6-2026)
+  - [HTML Lab 7](https://github.com/Sherman224/lab-7-2026)
 
 <h2> Certifications</h2>
 
