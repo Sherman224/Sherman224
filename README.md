@@ -13,7 +13,7 @@
                       <b>Chicago Crime Trends Data Analysis Report</b>
                     </td>
                     <td valign="left">
-                      <a href="https://github.com/Sherman224/Sherman224/raw/main/Chicago%20Crime%20Trends%20Data%20Analysis%20Report.pdf" target="_blank">
+                      <a href="https://docs.google.com/viewer?url=https://github.com/Sherman224/Sherman224/raw/main/Chicago%20Crime%20Trends%20Data%20Analysis%20Report.pdf" target="_blank">
                         <img src="https://img.shields.io/badge/View_Report-PDF-red?style=for-the-badge&logo=adobeacrobatreader" alt="View PDF Report" />
                       </a>
                     </td>
