@@ -7,6 +7,7 @@ CompTIA Certified IT Professional with 5 years of leadership experience and a ba
 - [CompTIA Network+](https://cp.certmetrics.com/comptia/en/public/verify/credential/569aae01c734462999e451ec4ce420b3)
 
 <h2>👨‍💻 IT Projects:</h2>
+
 - <b>Hardware/Networking</b>
   - [Network Attached Storage (NAS) Implementation Using Tailscale on a Rasberry Pi, Contributor]
   <a href="https://www.youtube.com/watch?v=i96c7BcQSOs">
