@@ -6,7 +6,7 @@
  
 - <b>Data Analysis</b>
   - [Analysis of Chicago Crime With Hadoop & Hive (2001-2025), Contributor](https://github.com/ksalaz63/ChicagoCrime2001-2025)
-    - [Chicago Crime Trends Data Analysis Report (PDF)](./Chicago%20Crime%20Trends%20Data%20Analysis%20Report.pdf)
+    - [Chicago Crime Trends Data Analysis Report (PDF)](https://github.com/Sherman224/Sherman224/raw/main/Chicago%20Crime%20Trends%20Data%20Analysis%20Report.pdf)
  
 - <b>HTML Labs</b>
   - [Lab Engagement #1: HTML Basics](https://github.com/Sherman224/lab-1-2026)
