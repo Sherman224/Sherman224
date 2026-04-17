@@ -1,4 +1,5 @@
 <h1>Hi, I'm Sherman! <br/></h1>
+CompTIA Certified IT Professional with 5 years of leadership experience and a background in technical consulting. Proven track record in high-volume troubleshooting, endpoint imaging, and user support in academic and retail environments.
 
 <h2>👨‍💻 IT Projects:</h2>
 
